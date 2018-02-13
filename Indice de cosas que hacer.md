@@ -1,7 +1,5 @@
 [img1]:http://www.techmake.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/c/a/cab-00119_02.jpg
 # Dudas
----
-
 ## Esta es una lista de dudas que hemos encontrado
 - Como mandar mas de un dato.
 - Que sensores
