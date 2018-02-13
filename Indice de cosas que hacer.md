@@ -3,7 +3,7 @@
 - Como mandar mas de un dato.
 - Necesitamos cables y meateriales
 - Que sensores
-  1. TMP35 (Unike267)
+  1.TMP35 (Unike267)
   2. NTC
   3. RTC, PT100 o PT1000, etc...
 # Programa de Arduino
