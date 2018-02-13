@@ -10,6 +10,7 @@
   
 # Programa de Arduino
 El programa ya esta para probar. 
+
 Sensor numero 1 a la entrada A0, probablemente NTC. Sensor numero dos a la A1, probablemente pt100.
 
 ---
