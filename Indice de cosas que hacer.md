@@ -19,5 +19,9 @@ Sensor numero 1 a la entrada *A0*, probablemente NTC. Sensor numero dos a la *A1
 + Protoboard 
 ![cables][img1]
 
+---
+
+![Imagen](https://www.makerlab-electronics.com/my_uploads/2017/03/LM35-Temperature-Sensor-01.jpg "imagen")
+
 
 
