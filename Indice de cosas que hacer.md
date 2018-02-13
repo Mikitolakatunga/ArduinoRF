@@ -18,6 +18,6 @@ Sensor numero 1 a la entrada *A0*, probablemente NTC. Sensor numero dos a la *A1
 + Cables jumper 
 + Protoboard 
 ![cables][img1]
-+ etc
++ Y ma cosahs
 
 
