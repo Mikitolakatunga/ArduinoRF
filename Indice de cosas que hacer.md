@@ -12,5 +12,6 @@ El programa ya esta para probar.
 Ponemos el sensor número uno en la entrada analogica *A0*, y el sensor dos en la entrada *A1*.
 
 ## Necesidades:
-+ Cables jumper  ![cables][img1]
++ Cables jumper 
 + Protoboard 
+![cables][img1]
