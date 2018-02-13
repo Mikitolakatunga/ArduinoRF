@@ -1,7 +1,6 @@
 # Dudas
 ## Esta es una lista de dudas que hemos encontrado
 - Como mandar mas de un dato.
-- Necesitamos cables y meateriales
 - Que sensores
   1. TMP35 (Unike267)
   2. NTC
@@ -14,3 +13,4 @@ Ponemos el sensor número uno en la entrada analogica *A0*, y el sensor dos en l
 ## Necesidades:
 + Cables jumper 
 ![cables](http://www.techmake.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/c/a/cab-00119_02.jpg "Cables jumper")
++ Protoboard 
